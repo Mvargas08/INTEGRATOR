@@ -1,0 +1,13 @@
+{
+    "name": "hakum/integrator",
+    "authors": [
+        {
+            "name": "Abraham Ruiz Palacios",
+            "email": "abraham@megatrix.mx"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "kint-php/kint": "^3.0"
+    }
+}
